@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "macenerf",
+	"version": "${version}",
+	"name": "Mace Nerf",
+	"description": "Server-side: mace deals 5% less damage, has no Wind Burst and a 25 second cooldown.",
+	"authors": [
+		"Server Admin"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/macenerf/icon.png",
+	"environment": "server",
+	"entrypoints": {
+		"main": [
+			"com.macenerf.MaceNerfMod"
+		]
+	},
+	"mixins": [
+		"macenerf.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
