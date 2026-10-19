@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "keybindmap",
+	"version": "${version}",
+	"name": "Keybind Map",
+	"description": "Zeigt alle Keybinds auf einer Tastatur: belegt, frei und Konflikte.",
+	"authors": ["Alex"],
+	"license": "CC0-1.0",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["de.keybindmap.KeybindMapClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

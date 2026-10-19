@@ -1,0 +1,23 @@
+{
+  "key.category.keybindmap.main": "Keybind Map",
+  "key.keybindmap.open": "Keybind-Karte öffnen",
+  "keybindmap.title": "Keybind-Karte",
+  "keybindmap.button": "Keybind-Karte",
+  "keybindmap.done": "Fertig",
+  "keybindmap.hint": "Taste anklicken oder auf der Tastatur drücken",
+  "keybindmap.stat.used": "%1$s belegt",
+  "keybindmap.stat.free": "%1$s frei",
+  "keybindmap.stat.conflict": "%1$s Konflikte",
+  "keybindmap.overview.title": "Konflikte",
+  "keybindmap.overview.hint": "Auf diesen Tasten liegen mehrere Keybinds. Klicke eine an, um Details zu sehen.",
+  "keybindmap.overview.none": "Keine Konflikte. Jede Taste hat höchstens einen Keybind.",
+  "keybindmap.back": "< Übersicht",
+  "keybindmap.state.free": "Frei",
+  "keybindmap.state.used": "Belegt",
+  "keybindmap.state.conflict": "Konflikt",
+  "keybindmap.binds": "%1$s Keybinds",
+  "keybindmap.bind.one": "1 Keybind",
+  "keybindmap.detail.free": "Diese Taste ist noch frei.",
+  "keybindmap.detail.conflict": "Diese Aktionen teilen sich die Taste und stören sich eventuell gegenseitig.",
+  "keybindmap.more": "+ %1$s weitere"
+}

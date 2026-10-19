@@ -1,0 +1,23 @@
+{
+  "key.category.keybindmap.main": "Keybind Map",
+  "key.keybindmap.open": "Open Keybind Map",
+  "keybindmap.title": "Keybind Map",
+  "keybindmap.button": "Keybind Map",
+  "keybindmap.done": "Done",
+  "keybindmap.hint": "Click a key or press it on your keyboard",
+  "keybindmap.stat.used": "%1$s used",
+  "keybindmap.stat.free": "%1$s free",
+  "keybindmap.stat.conflict": "%1$s conflicts",
+  "keybindmap.overview.title": "Conflicts",
+  "keybindmap.overview.hint": "These keys have several keybinds. Click one for details.",
+  "keybindmap.overview.none": "No conflicts. Every key has at most one keybind.",
+  "keybindmap.back": "< Overview",
+  "keybindmap.state.free": "Free",
+  "keybindmap.state.used": "Used",
+  "keybindmap.state.conflict": "Conflict",
+  "keybindmap.binds": "%1$s keybinds",
+  "keybindmap.bind.one": "1 keybind",
+  "keybindmap.detail.free": "This key is still free.",
+  "keybindmap.detail.conflict": "These actions share the key and may get in each other's way.",
+  "keybindmap.more": "+ %1$s more"
+}
